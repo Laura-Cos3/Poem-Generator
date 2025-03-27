@@ -41,10 +41,11 @@ form {
 .submit-button {
   margin-left: 10px;
   background: rgb(148, 107, 141);
-  border-radius: 40px;
+  border-radius: 20px;
   padding: 14px 24px;
   font-size: 16px;
   width: 125px;
+  color: #fff;
 }
 
 .poem {
