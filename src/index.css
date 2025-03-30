@@ -1,15 +1,17 @@
 body {
+  display: block;
   background-color: rgb(246, 226, 243);
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 .container {
-  margin-top: 120px auto;
+  margin: 120px auto;
   max-width: 600px;
+  display: block;
 }
 
 header {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 h1 {
@@ -62,7 +64,7 @@ form {
   display: block;
   font-size: 16px;
   background-color: #fff;
-  padding: 20px;
+  padding: 15px;
   line-height: 2;
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.05);
   border-radius: 5px;
